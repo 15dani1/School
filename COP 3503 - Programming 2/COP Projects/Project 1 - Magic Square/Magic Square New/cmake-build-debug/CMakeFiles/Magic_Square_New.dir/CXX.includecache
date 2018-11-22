@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/rahul/Desktop/Programming 2/COP Projects/Magic Square New/Magic Square Header.h
+iostream
+-
+
+/cygdrive/c/Users/rahul/Desktop/Programming 2/COP Projects/Magic Square New/main.cpp
+Magic Square Header.h
+/cygdrive/c/Users/rahul/Desktop/Programming 2/COP Projects/Magic Square New/Magic Square Header.h
+

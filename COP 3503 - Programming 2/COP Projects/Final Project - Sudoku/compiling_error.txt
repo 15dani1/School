@@ -1,0 +1,33 @@
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp: In member function 'int Sudoku::easySudoku1()':
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+     };
+     ^
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:46:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+     };
+     ^
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'
+C:\Users\rahul\Desktop\Programming 3 Project\EasySudoku.cpp:65:5: error: too many initializers for 'std::string [14] {aka std::basic_string<char> [14]}'

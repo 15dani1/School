@@ -1,0 +1,61 @@
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h: In member function 'int LinkedList::validInput(int)':
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:46:14: error: 'INT_MAX' was not declared in this scope
+   cin.ignore(INT_MAX, '\n'); // Skips to the next newline characters and ignore the integer maximum value of character on the same line.
+              ^~~~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h: In member function 'void LinkedList::bestFit(std::string, int)':
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:130:10: error: 'count' was not declared in this scope
+      if (count>var4){
+          ^~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h: In member function 'void LinkedList::worstFit(std::string, int)':
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:198:6: error: 'test4' was not declared in this scope
+      test4=0;//Reset counter
+      ^~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:202:8: error: 'test4' was not declared in this scope
+     if(test4>= pageNumber){
+        ^~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:203:10: error: 'count' was not declared in this scope
+      if (count<var4){
+          ^~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:224:6: error: 'test3' was not declared in this scope
+  if (test3 !=0){
+      ^~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h: In function 'void makeNode(std::string)':
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:304:7: error: 'head' was not declared in this scope
+   if (head == NULL) {
+       ^~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:305:31: error: no matching function for call to 'LinkedList::LinkedList(std::string&)'
+     head = new LinkedList(name);
+                               ^
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:36:1: note: candidate: LinkedList::LinkedList()
+ LinkedList::LinkedList() {
+ ^~~~~~~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:36:1: note:   candidate expects 0 arguments, 1 provided
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:13:7: note: candidate: constexpr LinkedList::LinkedList(const LinkedList&)
+ class LinkedList {
+       ^~~~~~~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:13:7: note:   no known conversion for argument 1 from 'std::string {aka std::basic_string<char>}' to 'const LinkedList&'
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:13:7: note: candidate: constexpr LinkedList::LinkedList(LinkedList&&)
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:13:7: note:   no known conversion for argument 1 from 'std::string {aka std::basic_string<char>}' to 'LinkedList&&'
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:307:3: error: 'curr' was not declared in this scope
+   curr = head;
+   ^~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:307:10: error: 'head' was not declared in this scope
+   curr = head;
+          ^~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:311:35: error: no matching function for call to 'LinkedList::LinkedList(std::string&)'
+   curr->next = new LinkedList(name);
+                                   ^
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:36:1: note: candidate: LinkedList::LinkedList()
+ LinkedList::LinkedList() {
+ ^~~~~~~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:36:1: note:   candidate expects 0 arguments, 1 provided
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:13:7: note: candidate: constexpr LinkedList::LinkedList(const LinkedList&)
+ class LinkedList {
+       ^~~~~~~~~~
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:13:7: note:   no known conversion for argument 1 from 'std::string {aka std::basic_string<char>}' to 'const LinkedList&'
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:13:7: note: candidate: constexpr LinkedList::LinkedList(LinkedList&&)
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:13:7: note:   no known conversion for argument 1 from 'std::string {aka std::basic_string<char>}' to 'LinkedList&&'
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h: At global scope:
+C:\Users\rahul\Desktop\Project 2 C++\exampleHeader.h:313:1: error: expected declaration before '}' token
+ };
+ ^

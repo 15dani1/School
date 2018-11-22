@@ -1,0 +1,1 @@
+C:/cygwin64/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/COP_Projects.dir/main.cpp.o  -o COP_Projects.exe -Wl,--out-implib,libCOP_Projects.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
